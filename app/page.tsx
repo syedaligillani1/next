@@ -59,6 +59,7 @@ const Show=({name} : ShowProps)=>{
             <User name= "ali"  age = {22} />
             <User name= "umer"/>  passing props to a component*/}
 
+              <Link href={"/productlist"}>Go to Product List page</Link>
       </main>
          </div>
   );
